@@ -25,7 +25,7 @@ Please check the official laravel installation guide for server requirements bef
 
 Clone the repository
 
-`git clone git@github.com:gothinkster/Laravel-event-login.git`
+`git clone https://github.com/saloniig/Laravel-event-login.git`
 
 Switch to the repo folder
 
